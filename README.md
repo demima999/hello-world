@@ -1,2 +1,2 @@
 # hello-world
-First Repository Test
+First Repository Test: Hello World First Edition
